@@ -1,4 +1,4 @@
-# ATTI - Add Image To Text
+# ATTI - Add Text To Image
 
 ## Warning
 
